@@ -1,0 +1,7 @@
+.ccls-cache
+.idea
+.vscode
+loc
+cmake-build-debug
+build
+
